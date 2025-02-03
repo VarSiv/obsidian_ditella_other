@@ -1,1 +1,3 @@
-# obsidian_ditella_other
+# Obsidian Ditella Other
+
+All other ditella notes, that are unrelated to math
